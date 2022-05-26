@@ -1,0 +1,35 @@
+[{
+    "uname": "user1",
+	"password": "pass1",
+	"name": "John",
+	"phone": "050999999",
+  	"isAdmin": true
+},
+{
+    "uname": "user2",
+	"password": "pass2",
+	"name": "Niv",
+	"phone": "0501234567",
+  	"isAdmin": false
+},
+{
+    "uname": "user3",
+	"password": "pass3",
+	"name": "Yedidia",
+	"phone": "050505050",
+  	"isAdmin": false
+},
+{
+    "uname": "user4",
+	"password": "pass4",
+	"name": "Yaniv",
+	"phone": "123456",
+  	"isAdmin": false
+},
+{
+    "uname": "user5",
+	"password": "pass5",
+	"name": "Enigma",
+	"phone": "0000000",
+  	"isAdmin": false
+}]
